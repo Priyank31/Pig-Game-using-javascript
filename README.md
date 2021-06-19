@@ -1,6 +1,6 @@
 # Pig-Game
 - Pig Game is a mini project on Javascript.
-- This project illustrate the use of DOM manupulation in Javascript.
+- This project illustrates the use of DOM manipulation in Javascript.
 - [More about Dom Manupulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 
 ## About The Game
